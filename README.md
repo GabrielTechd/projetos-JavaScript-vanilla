@@ -41,6 +41,22 @@ Repositório com projetos e desafios de programação em JavaScript. Cada projet
 
 ---
 
+### 003 - Conversor de Temperatura
+
+**Descrição:** Aplicação que converte temperaturas entre diferentes escalas: Celsius, Fahrenheit e Kelvin.
+
+**Funcionalidades:**
+- Conversão entre Celsius, Fahrenheit e Kelvin
+- Seleção flexível de unidades de origem e destino
+- Validação de entrada de valores numéricos
+- Resultado com precisão de 2 casas decimais
+
+**Tecnologias:** HTML5, CSS3, JavaScript (vanilla)
+
+**Localização:** `003 Conversor de Temperatura/`
+
+---
+
 ## 🚀 Como Usar
 
 1. Clone ou baixe o repositório
