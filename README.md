@@ -1,6 +1,8 @@
 # Desafios de Programação
 
-Repositório com projetos e desafios de programação em JavaScript. Cada projeto é uma aplicação web funcional com HTML, CSS e JavaScript.
+Repositório com projetos e desafios de programação em **JavaScript**. Este repositório é focado no aprendizado de JavaScript vanilla, onde cada projeto é uma aplicação web funcional desenvolvida com HTML, CSS e JavaScript puro, sem o uso de frameworks ou bibliotecas externas.
+
+**Objetivo:** Consolidar conceitos de JavaScript através de projetos práticos e interativos.
 
 ---
 
@@ -46,6 +48,7 @@ Repositório com projetos e desafios de programação em JavaScript. Cada projet
 **Descrição:** Aplicação que converte temperaturas entre diferentes escalas: Celsius, Fahrenheit e Kelvin.
 
 **Funcionalidades:**
+
 - Conversão entre Celsius, Fahrenheit e Kelvin
 - Seleção flexível de unidades de origem e destino
 - Validação de entrada de valores numéricos
@@ -54,6 +57,29 @@ Repositório com projetos e desafios de programação em JavaScript. Cada projet
 **Tecnologias:** HTML5, CSS3, JavaScript (vanilla)
 
 **Localização:** `003 Conversor de Temperatura/`
+
+---
+
+### 004 - Gerador de Senhas
+
+**Descrição:** Aplicação que gera senhas seguras e personalizáveis com base em critérios definidos pelo usuário, permitindo controlar o tamanho e os tipos de caracteres utilizados.
+
+**Funcionalidades:**
+
+- Definição do tamanho da senha
+- Inclusão opcional de:
+- Letras maiúsculas (A–Z)
+- Letras minúsculas (a–z)
+- Números (0–9)
+- Símbolos especiais
+- Geração de senha aleatória baseada nas opções selecionadas
+- Validação para impedir a geração sem nenhum tipo de caractere selecionado
+- Exibição imediata da senha gerada
+- Botão para copiar a senha para a área de transferência
+
+**Tecnologias:** HTML5, CSS3, JavaScript (vanilla)
+
+**Localização:** `004 Gerador de Senhas/`
 
 ---
 
@@ -98,9 +124,10 @@ Para adicionar um novo projeto:
 
 ## 📝 Notas
 
-- Todos os projetos utilizam JavaScript vanilla (sem frameworks)
+- Todos os projetos utilizam **JavaScript vanilla** (sem frameworks ou bibliotecas externas)
+- Este repositório é dedicado ao ensino e prática de **JavaScript puro**
+- Código bem comentado e fácil de entender para fins educacionais
 - Interface responsiva e compatível com navegadores modernos
-- Código bem comentado e fácil de entender
 
 ---
 
